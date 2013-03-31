@@ -1,4 +1,4 @@
-Messing around with 3D "Zarch/Virus" like landsacpe
+Messing around with 3D "Zarch/Virus" like landscape
 ===================================================
 
 Javascript + Canvas 3D landscape based on Zarch/Virus.
