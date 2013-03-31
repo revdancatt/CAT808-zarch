@@ -31,6 +31,25 @@ body, html {
 	height: 20px;
 }
 
+.bout {
+	position: absolute;
+	bottom: 0;
+	right: 2px;
+	font-family: monospace;
+	font-size: 13px;
+	color: #333;
+	height: 20px;
+}
+
+.bout a {
+	color: #333;
+	text-decoration: none;
+}
+
+.bout a:hover {
+	color: #666;
+}
+
 .map,
 .map img,
 .map canvas {
