@@ -1,7 +1,7 @@
 Messing around with 3D "Zarch/Virus" like landscape
 ===================================================
 
-Javascript + Canvas 3D landscape based on Zarch/Virus.
+Javascript + Canvas 3D landscape based on Zarch/Virus
 
 Needs lots of optimisation and code clean up :)
 
