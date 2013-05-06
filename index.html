@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Zarch</title>
-    <link href="css/main.css?v=0.2" rel="stylesheet">
+    <link href="css/main.css?v=0.3" rel="stylesheet">
     <meta name="apple-mobile-web-app-capable" content="yes" />
 </head>
 <body>
@@ -9,13 +9,18 @@
     <canvas id="landscape" class="landscape" width="920" height="518"></canvas>
 
     <div id="fps"></div>
+    <div id="debug"></div>
+    <div id="controls">
+        cursor up/down left/right<br />
+        or WASD to fly
+    </div>
 
     <div class="map">
         <canvas id="map" width="128" height="128"></canvas>
         <div class="position"></div>
     </div>
 
-    <div class="height">
+    <div class="height hidden">
         <canvas id="height" width="128" height="128"></canvas>
         <div class="position"></div>
     </div>
@@ -26,7 +31,7 @@
     </div>
 
     <script src="js/jquery-1.8.1.min.js"></script> 
-    <script src="js/control.js?v=0.2"></script>
+    <script src="js/control.js?v=0.3"></script>
     <script>
             $(document).ready(function() {
                 var i = $('<img>').on('load', function() {
