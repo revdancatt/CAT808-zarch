@@ -56,16 +56,16 @@ body, html {
 	right: 2px;
 	font-family: monospace;
 	font-size: 13px;
-	color: #333;
+	color: #666;
 }
 
 .bout a {
-	color: #333;
+	color: #666;
 	text-decoration: none;
 }
 
 .bout a:hover {
-	color: #666;
+	color: #999;
 }
 
 .map,
