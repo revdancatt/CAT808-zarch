@@ -1,7 +1,9 @@
-Messing around with 3D "Zarch/Virus" like landscape
-===================================================
+![Screen Shot](http://cattopus23.com/img/panel-CAT808.jpg)
 
-Javascript + Canvas 3D landscape based on Zarch/Virus
+CAT808 Zarch
+============
+
+Messing around with 3D "Zarch/Virus" like landscape, a Javascript + Canvas 3D landscape based on Zarch/Virus
 
 Needs lots of optimisation and code clean up :)
 
